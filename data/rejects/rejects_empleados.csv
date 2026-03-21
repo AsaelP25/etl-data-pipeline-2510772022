@@ -1,0 +1,23 @@
+id_empleado,nombre,id_departamento,fecha_ingreso,motivo
+EM407,Sofía Mendoza,D13,,fecha invalida
+EM419,Elena Ramírez,D16,,fecha invalida
+EM422,Luis Romero,,2020-08-07,departamento invalido
+EM426,Daniela Martínez,,2021-05-08,departamento invalido
+EM447,Luis Mendoza,D14,,fecha invalida
+EM458,Andrea Martínez,D12,,fecha invalida
+EM459,Paola Romero,D13,,fecha invalida
+EM469,Luis Castro,D13,,fecha invalida
+EM474,Natalia Santos,,2020-07-14,departamento invalido
+EM483,Kevin Flores,,,departamento invalido
+EM487,Diego Cruz,D14,,fecha invalida
+EM490,Elena Reyes,,2023-09-09,departamento invalido
+EM491,Mario Guerrero,D15,,fecha invalida
+EM496,Elena Morales,D12,,fecha invalida
+EM497, Valeria Martínez ,D10,,fecha invalida
+EM498,Jorge Vásquez,,2020-10-22,departamento invalido
+EM501,Paola Pérez,D10,,fecha invalida
+EM504,Carmen Morales,,2020-06-06,departamento invalido
+EM510,Natalia Guerrero,D11,,fecha invalida
+EM515,Camila Torres,D13,,fecha invalida
+EM525,Ana Flores,D12,,fecha invalida
+EM501,Paola Pérez,D10,,fecha invalida
